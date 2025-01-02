@@ -5,7 +5,5 @@ theme: minima
 menu:
   - title: "Home"
     url: "/"
-  - title: "About"
-    url: "/about/"
-  - title: "Contact"
-    url: "/contact/"
+  - title: "Research"
+    url: "/research/"
