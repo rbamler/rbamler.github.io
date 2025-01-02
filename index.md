@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Welcome to my website"
+title: "Home"
 ---
 
 I am a professor at the Department of Mathematics at UC Berkeley.
