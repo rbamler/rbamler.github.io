@@ -1,14 +1,11 @@
 ---
 layout: home
-title: "Home"
 ---
 
-# Richard's website
-## a
-## b
-# c
-# d
-* paper 1
-* paper 2
-* paper 3
-dfadf
+## News
+* Teaching Math 240 (Riemannian Geometry) in the Spring 2025
+* Differential Geometry Seminar
+* Current students:
+  * Aidan Kelley
+  * Abi Rajan
+ 
