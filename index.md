@@ -3,10 +3,9 @@ layout: home
 title: "Home"
 ---
 
-<p align="right">
+<div style="float: right; margin-left: 15px; margin-bottom: 10px;">
   <img src="richard_photo.jpg" alt="Image description" width="300">
-</p>
-
+</div>
 I am a professor at the Department of Mathematics at UC Berkeley.
 My field is geometric analysis, specifically geometric flows, such as Ricci flow and Mean Curvature Flow.
 
