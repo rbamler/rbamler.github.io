@@ -21,3 +21,17 @@ title: "Research"
 Adv. Math. 401 (2022), Paper No. 108285, 21 pp. 
 * R. Bamler, B. Kleiner, _On the rotational symmetry of 3-dimensional $\kappa$-solutions,_  Journal für die reine und angewandte Mathematik  (Crelles Journal), vol. 2021, no. 779, 2021, pp. 37-55. 
 * R. Bamler, B. Kleiner, _Ricci flow and diffeomorphism groups of 3-manifolds,_ Journal of the American Mathematical Society (JAMS) 36 (2023), no. 2, 563-589 
+* R. Bamler, B. Kleiner, _Uniqueness and Stability of Ricci flow through singularities,_ Acta Mathematica 228 (2022), no. 1, 1-215 
+* R. Bamler, _New developments of Ricci flow with surgery,_ Surveys in differential geometry 2020. Surveys in 3-manifold topology and geometry, 1-31,
+Surv. Differ. Geom., 25 (2022) 
+* R. Bamler, E. Cabezas-Rivas, B. Wilking, _The Ricci flow under almost non-negative curvature conditions,_ Inventiones Mathematicae 217 (2019), no. 1, 95-126
+* R. Bamler, Q. Zhang, _Heat kernel and curvature bounds in Ricci flows with bounded scalar curvature --- Part II,_ (2015), Calc. Var. Partial Differential Equations 58 (2019), no. 2, Paper No. 49, 14 pp 
+* R. Bamler, _Convergence of Ricci flows with bounded scalar curvature,_ (2018), Annals of Mathematics, 188(3):753-831 
+* R. Bamler, _Long-time behavior of 3 dimensional Ricci flow --- D: Proof of the main results,_ Geometry & Topology 22-2 (2018), 949-1068  
+* R. Bamler, _Long-time behavior of 3 dimensional Ricci flow --- C: 3-manifold topology and combinatorics of simplicial complexes in 3-manifolds,_  Geometry & Topology 22-2 (2018), 893-948  
+* R. Bamler, _Long-time behavior of 3 dimensional Ricci flow --- B: Evolution of the minimal area of simplicial complexes under Ricci flow,_ Geometry & Topology 22-2 (2018), 845-892 
+* R. Bamler, _Long-time behavior of 3 dimensional Ricci flow --- A: Generalizations of Perelman's long-time estimates,_ Geometry & Topology 22-2 (2018), 775-844 
+* R. Bamler, _Long-time behavior of 3 dimensional Ricci flow --- Introduction,_  Geometry & Topology 22-2 (2018), 757-774
+
+
+
