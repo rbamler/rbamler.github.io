@@ -11,6 +11,8 @@ My field is geometric analysis, specifically geometric flows, such as Ricci flow
 
 I currently serve as Vice Chair for Undergraduate Affairs.
 
+**email:** rbamler AT berkeley.edu
+
 # News
 * Teaching Math 240 (Riemannian Geometry) in the Spring 2025
 * Differential Geometry Seminar
