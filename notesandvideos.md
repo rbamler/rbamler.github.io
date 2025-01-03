@@ -5,7 +5,7 @@ title: "Notes & Videos"
 
 ## Lecture Notes and recordings of online classes
 * [Ricci flow (Fall 2020)](https://math.berkeley.edu/~rbamler/rfclass.html)
-* [Differentiable Manifolds](https://math.berkeley.edu/~rbamler/math214-S2021.html)
+* [Differentiable Manifolds (Spring 2021)](https://math.berkeley.edu/~rbamler/math214-S2021.html)
 
 
 
