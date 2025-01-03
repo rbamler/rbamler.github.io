@@ -7,3 +7,5 @@ menu:
     url: "/"
   - title: "Research"
     url: "/research/"
+  - title: "Teaching"
+    url: "/teaching/"
