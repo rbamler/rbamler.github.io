@@ -3,6 +3,7 @@ layout: home
 title: "Home"
 ---
 
+![photo](/Richard_photo.jpg)
 I am a professor at the Department of Mathematics at UC Berkeley.
 My field is geometric analysis, specifically geometric flows, such as Ricci flow and Mean Curvature Flow.
 
