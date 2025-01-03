@@ -15,7 +15,8 @@ I currently serve as Vice Chair for Undergraduate Affairs.
 
 # News
 * Teaching Math 240 (Riemannian Geometry) in the Spring 2025
-* [Differential Geometry Seminar](https://docs.google.com/document/d/e/2PACX-1vSHhtliHeSFGtmTHH3KDF9yE8Y2MZPBhdhtFjXWPEfP7rNnHDOx2xfg4gPs4l2yfZ_HHE-3iSdMuGcY/pub)
+* Teaching Math 1A-online (Calculus) in the Summer 2025
+* Organizer of [Differential Geometry Seminar](https://docs.google.com/document/d/e/2PACX-1vSHhtliHeSFGtmTHH3KDF9yE8Y2MZPBhdhtFjXWPEfP7rNnHDOx2xfg4gPs4l2yfZ_HHE-3iSdMuGcY/pub)
 
 # Graduate Students
 **Graduated:** Alexander Appleton, Yi Lai, Paula Burkhardt-Guim, Michael Smith
