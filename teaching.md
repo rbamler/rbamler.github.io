@@ -3,8 +3,10 @@ layout: page
 title: "Teaching"
 ---
 
-
-    
+* Summer 2025: Math 1A-online: Calculus
+* Spring 2025: Riemannian Geometry
+* Summer 2024: Math 1A-online: Calculus
+* Fall 2023: Math 1A: Calculus (2 sections)    
 * [Fall 2022: Math 240: Riemannian Geometry](https://math.berkeley.edu/~rbamler/math240.html)
 * [Spring 2022: Math 140: Metric Differential Geometry](https://math.berkeley.edu/~rbamler/math140.html)
 * [Spring 2022: Math 214: Differentiable Manifolds](https://math.berkeley.edu/~rbamler/math214.html)
