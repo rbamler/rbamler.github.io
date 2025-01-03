@@ -9,3 +9,5 @@ menu:
     url: "/research/"
   - title: "Teaching"
     url: "/teaching/"
+  - title: "Notes & Videos"
+    url: "/notesandvideos/"
