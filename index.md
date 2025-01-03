@@ -4,7 +4,7 @@ title: "Home"
 ---
 
 I am a professor at the Department of Mathematics at UC Berkeley.
-My main field is geometric analysis and specifically geometric flows, such as Ricci flow and Mean Curvature Flow.
+My field is geometric analysis, specifically geometric flows, such as Ricci flow and Mean Curvature Flow.
 
 I currently act as Vice Chair for Undergraduate Affairs.
 
