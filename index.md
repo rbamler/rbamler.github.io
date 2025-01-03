@@ -6,7 +6,7 @@ title: "Home"
 I am a professor at the Department of Mathematics at UC Berkeley.
 My field is geometric analysis, specifically geometric flows, such as Ricci flow and Mean Curvature Flow.
 
-I currently act as Vice Chair for Undergraduate Affairs.
+I currently serve as Vice Chair for Undergraduate Affairs.
 
 # News
 * Teaching Math 240 (Riemannian Geometry) in the Spring 2025
