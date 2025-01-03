@@ -32,6 +32,12 @@ Surv. Differ. Geom., 25 (2022)
 * R. Bamler, _Long-time behavior of 3 dimensional Ricci flow --- B: Evolution of the minimal area of simplicial complexes under Ricci flow,_ Geometry & Topology 22-2 (2018), 845-892 
 * R. Bamler, _Long-time behavior of 3 dimensional Ricci flow --- A: Generalizations of Perelman's long-time estimates,_ Geometry & Topology 22-2 (2018), 775-844 
 * R. Bamler, _Long-time behavior of 3 dimensional Ricci flow --- Introduction,_  Geometry & Topology 22-2 (2018), 757-774
-
-
-
+* R. Bamler, Q. Zhang, _Heat kernel and curvature bounds in Ricci flows with bounded scalar curvature,_ Advances in Mathematics, (2017), 319:396-450 
+* R. Bamler, _Structure theory of singular spaces,_ Journal of Functional Analysis, 272(6) (2017): 2504-2627 
+* R. Bamler, D. Maximo, _Almost-rigidity and the extinction time of positively curved Ricci flows,_  Math. Annalen 369, (2017), 899-911 
+* R. Bamler, _The long-time Behavior of 3 dimensional Ricci Flow on certain Topologies,_  Journal für die reine und angewandte Mathematik (Crelle's Journal), 725 (2017):183-215. 
+* R. Bamler, _A Ricci flow proof of a result by Gromov on lower bounds for scalar curvature,_ Math. Res. Lett. 23 (2016), no. 2, 325-337 
+* R. Bamler, S. Brendle, _A comparison principle for solutions to the Ricci flow,_ Math. Res. Lett., 22 (2015), no. 4, 983-988 
+* R. Bamler, _Stability of symmetric spaces of noncompact type under Ricci flow,_ Geometric and Functional Analysis, (2015), Volume 25, Issue 2, pp 342-416 
+* R. Bamler, _Stability of hyperbolic manifolds with cusps under Ricci flow,_ Advances in Mathematics 263, (2014), 412-467
+* R. Bamler, _Construction of Einstein metrics by generalized Dehn filling,_ Journal of the European. Mathematical Society (JEMS) 14, (2012), 887-909.
