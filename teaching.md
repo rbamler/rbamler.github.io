@@ -3,7 +3,7 @@ layout: page
 title: "Teaching"
 ---
 
-* Summer 2025: Math 1A-online: Calculus
+* [Summer 2025: Math 1A-online: Calculus](https://docs.google.com/document/d/e/2PACX-1vTNxU9IfxwOXJ3GomXxydU_nPPeGEAqMj9pKE57SdCS2x__5vWoxrUhJCiD3Lkt1zinMQDCWMOQF0_t/pub)
 * [Spring 2025: Riemannian Geometry](https://docs.google.com/document/d/e/2PACX-1vTNxU9IfxwOXJ3GomXxydU_nPPeGEAqMj9pKE57SdCS2x__5vWoxrUhJCiD3Lkt1zinMQDCWMOQF0_t/pub)
 * Summer 2024: Math 1A-online: Calculus
 * Fall 2023: Math 1A: Calculus (2 sections)    
