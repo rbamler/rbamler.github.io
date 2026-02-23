@@ -27,7 +27,7 @@ title: "Notes & Videos"
 
 ## Labs
 
-I developed new course material for Math 1A to incorporate a practical, hands-on approach similar to that found in applied science courses like physics, chemistry, or biology. To achieve this, I created special “Labs” designed to:
+I have developed new course material for Math 1A (Calculus I) to incorporate a practical, hands-on approach similar to that found in applied science courses like physics, chemistry, or biology. To achieve this, I created special “Labs” designed to:
 
 - Convey key calculus intuitions through practical and numerical examples.  
 - Provide motivation and excitement for various calculus topics by highlighting their modern applications.  
