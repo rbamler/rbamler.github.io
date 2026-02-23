@@ -30,17 +30,3 @@ title: "Teaching"
 * Spring 2012: Math 175: Elementary Functional Analysis
 * Winter 2012: Math 172: Lebesgue Integration and Fourier Analysis
 
----
-
-# Labs
-
-I developed new course material for Math 1A to incorporate a practical, hands-on approach similar to that found in applied science courses like physics, chemistry, or biology. To achieve this, I created special “Labs” designed to:
-
-- Convey key calculus intuitions through practical and numerical examples.  
-- Provide motivation and excitement for various calculus topics by highlighting their modern applications.  
-- Offer students opportunities to engage with the material through collaboration and discussion of open-ended questions.
-
-These “Labs” are conducted using Google Spreadsheets. This tool was chosen for its accessibility (being free and available to all students) and its ease of use. The versatility of Google Spreadsheets’ self-computing capabilities makes it an excellent choice for quickly simulating fundamental calculus concepts, and I view it as a valuable educational resource.
-
-[Click here to download these labs as PDFs](Labs.zip).  
-Please contact me if you are interested in the TeX source files.
