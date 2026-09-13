@@ -22,9 +22,9 @@ I currently serve as Vice Chair for Undergraduate Affairs.
 * Organizer of [Differential Geometry Seminar](https://docs.google.com/document/d/e/2PACX-1vSHhtliHeSFGtmTHH3KDF9yE8Y2MZPBhdhtFjXWPEfP7rNnHDOx2xfg4gPs4l2yfZ_HHE-3iSdMuGcY/pub)
 
 # Graduate Students
-**Graduated:** Alexander Appleton, Yi Lai, Paula Burkhardt-Guim, Michael Smith
+**Graduated:** Alexander Appleton, Yi Lai, Paula Burkhardt-Guim, Michael Smith, Abi Rajan
 
-**Current:** Aidan Kelley, Abi Rajan
+**Current:** Aidan Kelley, Zarif Ahsan
  
 # Answers to common inquiries
  * _Graduate students:_ I am generally open to taking new graduate students. If you are interested in working with me, then please apply to our department's graduate program. This is the only way to join our department and I cannot hire graduate students independently (as is the case in some European universities). Additionally, please note that I have limited influence over the graduate admissions process.
