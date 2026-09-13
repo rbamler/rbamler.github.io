@@ -11,3 +11,9 @@ menu:
     url: "/teaching/"
   - title: "Notes & Videos"
     url: "/notesandvideos/"
+
+header_pages:
+  - index.md
+  - notesandvideos.md
+  - research.md
+  - teaching.md

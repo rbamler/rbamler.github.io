@@ -14,6 +14,9 @@ I currently serve as Vice Chair for Undergraduate Affairs.
 **email:** rbamler AT berkeley.edu
 
 # News
+
+<h2 style="font-size: 2em; line-height: 1.25; margin-bottom: 24px;"><a href="{{ '/math-vision/' | relative_url }}" style="color: #1769aa;">My “vision” for the future of math (or rather, scattered thoughts)</a></h2>
+
 * Teaching [Math 240 (Riemannian Geometry)](https://docs.google.com/document/d/e/2PACX-1vTNxU9IfxwOXJ3GomXxydU_nPPeGEAqMj9pKE57SdCS2x__5vWoxrUhJCiD3Lkt1zinMQDCWMOQF0_t/pub) in the Spring 2025
 * Teaching Math 1A-online (Calculus) in the Summer 2025
 * Organizer of [Differential Geometry Seminar](https://docs.google.com/document/d/e/2PACX-1vSHhtliHeSFGtmTHH3KDF9yE8Y2MZPBhdhtFjXWPEfP7rNnHDOx2xfg4gPs4l2yfZ_HHE-3iSdMuGcY/pub)
