@@ -13,6 +13,11 @@ window.MathJax = {
 
 _I am not a blogger, and I’m not on Twitter or other social media, so I’m not used to this. But I think it is very important that we, as more senior mathematicians, offer a vision for the future of our field. I owe my career to an environment that gave young researchers room to grow, and I feel a responsibility to pay it forward to those now facing an uncertain future. I don’t really think of myself as that senior or influential, but I’m putting something out here in the hope that others will follow. I will happily link to their thoughts here, including those I disagree with. They do not have to be well organized or well articulated (mine certainly aren’t; and yes I used AI to edit this text). I hope this can help get a more nuanced discussion going. I will add to these thoughts as I have time._
 
+<aside aria-labelledby="other-visions" style="border-left: 3px solid #24766b; padding: 4px 0 4px 20px; margin: 28px 0 36px;">
+  <h2 id="other-visions" style="color: #1b665e; font-size: 1.4em; margin-bottom: 12px;">Other visions for mathematics</h2>
+  <p style="margin-bottom: 0;">I thank my colleague Alexander Givental for publishing an interesting vision for the future of mathematics on his website: <a href="https://sumizdat.com/homepage/verity.pdf" style="color: #1b665e; text-decoration: underline;">his commentary on mathematics and AI</a> (PDF).</p>
+</aside>
+
 ## Being of two minds
 
 I think it is important to recognize that it is OK to be of two minds about AI. AI is definitely useful for many things, and it has helped me and others tremendously. It has improved my workflow and removed barriers in my own creative process. One of my goals as a researcher is to advance knowledge, so I also welcome the contributions AI has made toward answering central questions in our field. At the same time, I regret some of its effects, particularly on the mathematical community and on the goal of actually understanding the material. (There are also environmental concerns, risks to the labor market, and much else that I won’t get into here.) So it is OK to be both excited and regretful.
