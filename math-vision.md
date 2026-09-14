@@ -15,7 +15,8 @@ _I am not a blogger, and I’m not on Twitter or other social media, so I’m no
 
 <aside aria-labelledby="other-visions" style="border-left: 3px solid #24766b; padding: 4px 0 4px 20px; margin: 28px 0 36px;">
   <h2 id="other-visions" style="color: #1b665e; font-size: 1.4em; margin-bottom: 12px;">Other visions for mathematics</h2>
-  <p style="margin-bottom: 0;">I thank my colleague Alexander Givental for publishing an interesting vision for the future of mathematics on his website: <a href="https://sumizdat.com/homepage/verity.pdf" style="color: #1b665e; text-decoration: underline;">his commentary on mathematics and AI</a> (PDF).</p>
+  <p style="margin-bottom: 12px;">I thank my colleague Alexander Givental for publishing an interesting vision for the future of mathematics on his website: <a href="https://sumizdat.com/homepage/verity.pdf" style="color: #1b665e; text-decoration: underline;">his commentary on mathematics and AI</a> (PDF).</p>
+  <p style="margin-bottom: 0;">Here is another interesting article by Matt Baker (Georgia Tech): <a href="https://mattbaker.blog/2026/09/10/some-late-night-thoughts-on-ai-and-the-future-of-research-in-mathematics/" style="color: #1b665e; text-decoration: underline;">Some late-night thoughts on AI and the future of research in mathematics</a>.</p>
 </aside>
 
 ## Being of two minds
