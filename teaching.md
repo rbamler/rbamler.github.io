@@ -3,6 +3,7 @@ layout: page
 title: "Teaching"
 ---
 
+* Fall 2026: Math 214: Differential Topology
 * Summer 2025: Math 1A-online: Calculus
 * [Spring 2025: Riemannian Geometry](https://docs.google.com/document/d/e/2PACX-1vTNxU9IfxwOXJ3GomXxydU_nPPeGEAqMj9pKE57SdCS2x__5vWoxrUhJCiD3Lkt1zinMQDCWMOQF0_t/pub)
 * Summer 2024: Math 1A-online: Calculus

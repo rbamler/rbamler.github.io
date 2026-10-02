@@ -3,7 +3,9 @@ layout: page
 title: "Research"
 ---
 
-* R. Bamler, E. Chen, R. Conlon, _A non-Kähler expanding Ricci soliton with a Kähler tangent cone at infinity,_ (2026) [(arxiv)](https://arxiv.org/abs/2603.25082)
+* R. Bamler, E. Cabezas-Rivas, _Smoothing polyhedral spaces via Ricci flow,_ (2026) [(arxiv)](https://arxiv.org/abs/2609.37549)
+* R. Bamler, F. Schulze, L. Wang, _Morse resolution of mean curvature flows with cylindrical singularities,_ (2026) [(arxiv)](https://arxiv.org/abs/2609.18687)
+* R. Bamler, E. Chen, R. Conlon, _A non-Kähler expanding Ricci soliton with a Kähler tangent cone at infinity,_ to appear in International Mathematics Research Notices [(arxiv)](https://arxiv.org/abs/2603.25082)
 * R. Bamler, Y. Lai, _Classification of ancient cylindrical mean curvature flows and the Mean Convex Neighborhood Conjecture,_ (2025) [(arxiv)](https://arxiv.org/abs/2512.24524)
 * R. Bamler, Y. Lai, _The PDE-ODI principle and cylindrical mean curvature flows,_ (2025) [(arxiv)](https://arxiv.org/abs/2512.25050)
 * R. Bamler, B. Kleiner, _On the Multiplicity One Conjecture for Mean Curvature Flows of surfaces,_ (2023) [(arxiv)](https://arxiv.org/abs/2312.02106)
